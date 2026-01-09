@@ -1,18 +1,18 @@
-# Python Automation with GitHub Actions
+# GitHub Actions を使用した Python 自動化
 
 ## 概要
-PythonのスクリプトをGitHub Actionsで自動実行する練習用リポジトリです。
-未経験からITエンジニアを目指す中で、自動化とCIの基礎を学ぶ目的で作成しました。
+未経験から IT エンジニアを目指す中で、
+Python と GitHub Actions による自動化と CI の基礎を学ぶために作成しました。
 
 ## 使用技術
 - Python
 - GitHub Actions
 
 ## 機能
-- main.py をGitHub Actions上で自動実行
-- push時に自動でワークフローが起動
+- main.py を GitHub Actions で自動実行
+- プッシュ時に自動で処理が走る
 
 ## 学んだこと
-- GitHubの基本操作（リポジトリ作成・コミット）
-- GitHub Actionsによる自動化の流れ
-- PythonプログラムをCI上で動かす経験
+- GitHub の基本操作
+- GitHub Actions による自動化
+- Python スクリプト作成と自動実行
